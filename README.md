@@ -17,11 +17,7 @@
 
 **Backend**
 
-* Java, FastAPI, Node.js
-
-**Frontend**
-
-* React, Next.js
+* Python, Java, FastAPI, Spring Boot
 
 **Database**
 
@@ -33,12 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=johnyjames9496\&show_icons=true)
-
----
-
 ## 🔭 Current Focus
 
 * Building real-time backend systems
@@ -46,9 +36,3 @@
 * Learning system design fundamentals
 
 ---
-
-## 🔗 Connect
-
-* LinkedIn: https://linkedin.com/in/YOUR-LINK
-* LeetCode: https://leetcode.com/YOUR-ID
-* Email: [johnyjames9605@gmail.com](mailto:johnyjames9605@gmail.com)
