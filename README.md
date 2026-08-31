@@ -16,7 +16,7 @@ AI-powered automatic documentation generator for VS Code. Generates hover toolti
 ---
 
 ### HackMate
-Hackathon team formation and matching platform. Developers register, list their skills, browse hackathons, form teams, and get matched with teammates based on skill compatibility. Includes a trust scoring system based on GitHub activity, a ratings system for teammates, and Redis caching for performance.
+Hackathon team formation and matching platform. Developers register, list their skills, browse hackathons, form teams, and get matched with teammates based on skill compatibility. Includes a trust scoring system based on GitHub activity, a ratings system for teammates, and Rediss caching for performance.
 
 **Stack:** FastAPI, Python, PostgreSQL (Supabase), Redis (Upstash), JWT Auth, Docker
 
